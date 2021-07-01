@@ -1,0 +1,22 @@
+body{
+    background-image: url('/img/estantes-1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+}
+
+nav{
+    background-color: rgba(114, 62, 3, 0.747);
+     text-align: center;
+}
+
+a{
+    background-color: rgba(250, 168, 74, 0.788);
+}
+
+p.centrado {
+    text-align: center;
+  }
+
+

@@ -1,0 +1,17 @@
+body{
+    background: url('/img/libro.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    height: 100vh;
+      
+}
+
+img {
+    float: left;
+}
+
+div{
+    background-color: rgba(235, 155, 76, 0.514);
+}
